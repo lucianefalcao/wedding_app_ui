@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 class BuildStars extends StatelessWidget {
-
   final int rating;
 
   const BuildStars({this.rating});
@@ -17,3 +16,4 @@ class BuildStars extends StatelessWidget {
     );
   }
 }
+
