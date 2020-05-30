@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:wedding_app_ui/constants.dart';
-import 'package:wedding_app_ui/models/dress_model.dart';
-import 'package:wedding_app_ui/screens/dress_screen.dart';
-import 'package:wedding_app_ui/widgets/build_stars.dart';
+import 'package:ui/constants.dart';
+import 'package:ui/models/dress_model.dart';
+import 'package:ui/screens/dress_screen.dart';
+import 'package:ui/widgets/build_stars.dart';
 
 class RecommendedList extends StatefulWidget {
   @override

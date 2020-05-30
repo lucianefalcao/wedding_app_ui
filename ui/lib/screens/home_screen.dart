@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:preload_page_view/preload_page_view.dart';
-import 'package:wedding_app_ui/constants.dart';
-import 'package:wedding_app_ui/widgets/dress_carousel.dart';
-import 'package:wedding_app_ui/widgets/recommend_list.dart';
+import 'package:ui/constants.dart';
+import 'package:ui/widgets/dress_carousel.dart';
+import 'package:ui/widgets/recommend_list.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

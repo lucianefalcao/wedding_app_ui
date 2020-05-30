@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:wedding_app_ui/screens/home_screen.dart';
+import 'package:ui/screens/home_screen.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,9 +1,9 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:wedding_app_ui/constants.dart';
-import 'package:wedding_app_ui/models/dress_model.dart';
-import 'package:wedding_app_ui/screens/home_screen.dart';
-import 'package:wedding_app_ui/widgets/build_stars.dart';
+import 'package:ui/constants.dart';
+import 'package:ui/models/dress_model.dart';
+import 'package:ui/screens/home_screen.dart';
+import 'package:ui/widgets/build_stars.dart';
 
 class DressScreen extends StatefulWidget {
   final Dress dress;
